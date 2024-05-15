@@ -1,0 +1,4 @@
+paho-mqtt
+win11toast
+pywin32
+pynput
